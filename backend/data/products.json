@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Jupiter 125",
+        "price": 85573,
+        "description": "Extra Milege",
+        "rating": "9",
+        "images": [
+            {
+                "image": "images/products/1.jpg"
+            }
+        ],
+        "category": "TVS",
+        "seller": "TVS",
+        "stock": "5",
+        "numberofReviews": "10"
+    },
+    {
+        "name": "CBR1000R",
+        "price": 2372500,
+        "description": "The Performer",
+        "rating": "9",
+        "images": [
+            {
+                "image": "images/products/3.jpg"
+            }
+        ],
+        "category": "Honda",
+        "seller": "Honda",
+        "stock": "6",
+        "numberofReviews": "10"
+    },
+    {
+        "name": "Ninja",
+        "price": 343000,
+        "description": "Sporty",
+        "rating": "9.5",
+        "images": [
+            {
+                "image": "images/products/4.jpg"
+            }
+        ],
+        "category": "Kwasaki",
+        "seller": "Kwasaki",
+        "stock": "1",
+        "numberofReviews": "1000"
+    },
+    {
+        "name": "GSXR",
+        "price": 2000000,
+        "description": "The Racer",
+        "rating": "9.9",
+        "images": [
+            {
+                "image": "images/products/6.jpg"
+            }
+        ],
+        "category": "Suzuki",
+        "seller": "Suzuki",
+        "stock": "5",
+        "numberofReviews": "100"
+    },
+    {
+        "name": "HP4 Race",
+        "price": 8500000,
+        "description": "Carbon Body",
+        "rating": "8.8",
+        "images": [
+            {
+                "image": "images/products/5.jpg"
+            }
+        ],
+        "category": "BMW",
+        "seller": "BMW",
+        "stock": "5",
+        "numberofReviews": "82"
+    },
+    {
+        "name": "Himalayan",
+        "price": "285000",
+        "description": " Adventure motorcycle ",
+        "rating": "8.7",
+        "images": [
+            {
+                "_id": "66349568940930696132897c",
+                "image": "images/products/2.jpg"
+            }
+        ],
+        "category": "Royal Enfield",
+        "seller": "RE",
+        "stock": "5",
+        "numberofReviews": "49"
+    },
+    {
+        "name": "MT09",
+        "price": 1200000,
+        "description": "The Fast",
+        "rating": "7.9",
+        "images": [
+            {
+                "image": "images/products/7.jpg"
+            }
+        ],
+        "category": "Yamaha",
+        "seller": "Yamaha",
+        "stock": "5",
+        "numberofReviews": "180"
+    },
+    {
+        "name": "Davidson",
+        "price": 239500,
+        "description": "Chopper MotorCycle",
+        "rating": "9.8",
+        "images": [
+            {
+                "image": "images/products/8.jpg"
+            }
+        ],
+        "category": "Harley",
+        "seller": "",
+        "stock": "50",
+        "numberofReviews": "1200"
+    }
+]
